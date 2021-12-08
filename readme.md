@@ -17,4 +17,4 @@ Basic project shows how to create dynamic plot in PySide6
 `pip install -r requirements.txt`
 
 ## 🚀 About Me
-I'm not even a software developer ... but who is a nuclear physicist who doesn't like to code in python
+I'm not even a software developer ... but what is a nuclear physicist who doesn't like to code in python
